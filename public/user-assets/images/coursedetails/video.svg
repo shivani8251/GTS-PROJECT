@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="62" height="62" viewBox="0 0 62 62">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_20480" data-name="Rectangle 20480" width="34" height="34" transform="translate(904 579)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Group_45570" data-name="Group 45570" transform="translate(-890 -565)">
+    <circle id="Ellipse_10150" data-name="Ellipse 10150" cx="31" cy="31" r="31" transform="translate(890 565)" fill="#eff4ff"/>
+    <g id="Mask_Group_241" data-name="Mask Group 241" clip-path="url(#clip-path)">
+      <g id="video-camera_4_" data-name="video-camera (4)" transform="translate(904 579)">
+        <g id="Group_45572" data-name="Group 45572">
+          <g id="Group_45571" data-name="Group 45571">
+            <path id="Path_60018" data-name="Path 60018" d="M19.232,7.012H3.72A3.731,3.731,0,0,0,0,10.732V23.268a3.731,3.731,0,0,0,3.72,3.72H19.232a3.731,3.731,0,0,0,3.72-3.72V10.732A3.707,3.707,0,0,0,19.232,7.012Z" fill="#56aade"/>
+          </g>
+        </g>
+        <g id="Group_45574" data-name="Group 45574">
+          <g id="Group_45573" data-name="Group 45573">
+            <path id="Path_60019" data-name="Path 60019" d="M31.247,9.058a1.9,1.9,0,0,0-.632.26l-5.8,3.348V21.3l5.84,3.348a2.212,2.212,0,0,0,3.05-.818A2.272,2.272,0,0,0,34,22.71V11.216A2.239,2.239,0,0,0,31.247,9.058Z" fill="#a6d4f0"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

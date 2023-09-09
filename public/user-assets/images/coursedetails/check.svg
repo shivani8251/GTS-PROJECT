@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="62" height="62" viewBox="0 0 62 62">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_5275" data-name="Rectangle 5275" width="34" height="34" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_45566" data-name="Group 45566" transform="translate(-575 -549)">
+    <circle id="Ellipse_10145" data-name="Ellipse 10145" cx="31" cy="31" r="31" transform="translate(575 549)" fill="#eff4ff"/>
+    <g id="Group_16881" data-name="Group 16881" transform="translate(589 563)">
+      <g id="Mask_Group_232" data-name="Mask Group 232" clip-path="url(#clip-path)">
+        <g id="exam_1_" data-name="exam (1)">
+          <g id="Group_19171" data-name="Group 19171">
+            <g id="Group_19170" data-name="Group 19170">
+              <path id="Path_45820" data-name="Path 45820" d="M30.594,0H2.948A3,3,0,0,0,0,3.035V23.4a3,3,0,0,0,2.948,3.035h8.844v2.023h9.892V26.436h8.91A3,3,0,0,0,33.542,23.4V3.035A3,3,0,0,0,30.594,0ZM11.5,17.979,7.574,22.026a.963.963,0,0,1-1.39,0L4.219,20a1.032,1.032,0,0,1,0-1.43.963.963,0,0,1,1.39,0L6.879,19.88l3.236-3.331a.963.963,0,0,1,1.39,0A1.032,1.032,0,0,1,11.5,17.979Zm0-6.069L7.574,15.956a.963.963,0,0,1-1.39,0L4.219,13.933a1.032,1.032,0,0,1,0-1.43.963.963,0,0,1,1.39,0l1.271,1.308,3.236-3.331a.963.963,0,0,1,1.39,0A1.032,1.032,0,0,1,11.5,11.91Zm0-6.069L7.574,9.887a.963.963,0,0,1-1.39,0L4.219,7.864a1.032,1.032,0,0,1,0-1.43.963.963,0,0,1,1.39,0L6.879,7.741,10.115,4.41a.963.963,0,0,1,1.39,0A1.032,1.032,0,0,1,11.5,5.84ZM28.629,20.3H14.74a1.012,1.012,0,0,1,0-2.023H28.629a1.012,1.012,0,0,1,0,2.023Zm0-6.069H14.74a1.012,1.012,0,0,1,0-2.023H28.629a1.012,1.012,0,0,1,0,2.023Zm0-6.069H14.74a1.012,1.012,0,0,1,0-2.023H28.629a1.012,1.012,0,0,1,0,2.023Z" fill="#56aade"/>
+            </g>
+          </g>
+          <g id="Group_19173" data-name="Group 19173" transform="translate(5.962 30.482)">
+            <g id="Group_19172" data-name="Group 19172">
+              <path id="Path_45821" data-name="Path 45821" d="M23.02,26.484H9.263a3.994,3.994,0,0,0-3.931,4.046H26.951A3.994,3.994,0,0,0,23.02,26.484Z" transform="translate(-5.332 -26.484)" fill="#b9ddf3"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

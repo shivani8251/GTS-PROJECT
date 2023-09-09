@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="62" height="62" viewBox="0 0 62 62">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_5276" data-name="Rectangle 5276" width="34" height="34" transform="translate(0 0.034)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_16881" data-name="Group 16881" transform="translate(14 13.966)">
+    <circle id="Ellipse_10149" data-name="Ellipse 10149" cx="31" cy="31" r="31" transform="translate(-14 -13.966)" fill="#eff4ff"/>
+    <g id="Mask_Group_233" data-name="Mask Group 233" clip-path="url(#clip-path)">
+      <g id="certificate" transform="translate(0 0.066)">
+        <path id="Path_45822" data-name="Path 45822" d="M16.765,25.05V30.6l3-2.669,3,2.669V25.05a7,7,0,0,1-6.006,0Z" transform="translate(2.254 3.303)" fill="#a6d4f0"/>
+        <circle id="Ellipse_10134" data-name="Ellipse 10134" cx="5.005" cy="5.005" r="5.005" transform="translate(17.017 17.017)" fill="#a6d4f0"/>
+        <path id="Path_45823" data-name="Path 45823" d="M0,.058V26.084H16.275a7.007,7.007,0,1,1,11.494,0h6.265V.058H0ZM12.012,22.08H6.006v-2h6.006Zm1-4H6.006v-2h7.007Zm3-4H6.006v-2h10.01Zm12.012-4H6.006v-2H28.028Zm0-4H6.006v-2H28.028Z" transform="translate(0 -0.058)" fill="#56aade"/>
+      </g>
+    </g>
+  </g>
+</svg>
